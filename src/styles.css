@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 1.5rem 2rem;
+  width: 75%;
+}
+body {
+  background-color: violet;
+}
